@@ -127,7 +127,7 @@
   - 3M Clarity
   - Invisalign
   - ClearCorrect
-  - Other
+  - Другой
 
 ---
 
