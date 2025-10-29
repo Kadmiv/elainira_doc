@@ -197,7 +197,7 @@ graph TD
     B --> D["Первичная настройка"]
     D --> E[
     <div style="text-align:center">
-        <img src="images/main_page.png" width="50"/><br/>
+        <img src="https://github.com/Kadmiv/elainira_doc/blob/main/images/main_page.png" width="250"/><br/>
         <b>Главная страница</b><br/>
         Some short description
     </div>
